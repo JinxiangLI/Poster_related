@@ -62,6 +62,7 @@
 2. For a GNR assembly, We demonstrate that the TPA peak can be different from the SPA peak when the coupling strength is sufficiently strong.
 
 8/29/2016 2:21:00 PM 
+8/29/2016 2:56:10 PM 
 
 
 
